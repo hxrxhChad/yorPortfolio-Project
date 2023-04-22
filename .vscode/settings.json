@@ -1,0 +1,39 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.": true,
+    ".dart_tool": true,
+    ".idea": true,
+    ".vscode": true,
+    "build": true,
+    "web": true,
+    ".flutter-plugins": true,
+    ".flutter-plugins-dependencies": true,
+    ".gitignore": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "p.iml": true,
+    "pubspec.lock": true,
+    "README.md": true
+  },
+  "hide-files.files": [
+    ".dart_tool",
+    ".idea",
+    ".vscode",
+    "build",
+    "web",
+    ".flutter-plugins",
+    ".flutter-plugins-dependencies",
+    ".gitignore",
+    ".metadata",
+    "analysis_options.yaml",
+    "p.iml",
+    "pubspec.lock",
+    "README.md"
+  ]
+}
